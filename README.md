@@ -44,7 +44,7 @@ The accountant returns ε = 1.07 in all twenty runs, compressed or not.
 | DP-SGD only | 4.58 MiB | 8 | 139.2 s | 430 s |
 | **PowerSGD-DP** | **39.5 KiB** | **2** | **68.5 s** | **363 s** |
 
-118.6× less transmitted per step, 15.6 % shorter training.
+118.6× less transmitted per step in every seed; training is 14.4–15.6 % shorter across seeds (table: seed 42).
 The 70.7 s saved in aggregation accounts for essentially all of the 67 s
 saved overall.
 
