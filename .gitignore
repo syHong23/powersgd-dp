@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/
+*.log
+logs/
+.ipynb_checkpoints/
+# working files written by the scripts (published results live in results/)
+/seed_results.json
+/ablate_w*.json
+/dist_*.json
+/grid_*.json

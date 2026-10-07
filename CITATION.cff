@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "PowerSGD-DP"
+authors:
+  - family-names: Hong
+    given-names: Sungyeon
+repository-code: "https://github.com/syHong23/powersgd-dp"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Communication-Efficient Distributed Learning with Differential Privacy via PowerSGD Compression"
+  authors:
+    - family-names: Hong
+      given-names: Sungyeon
+  collection-title: "Proceedings of the Workshop on Recent Advancement in Agentic and Federated AI (RAAF-AI), in conjunction with IEEE AGCS 2026"
+  conference:
+    name: "IEEE International Conference on Agentic, Generative, and Cognitive AI Systems (AGCS 2026)"
+    city: Paris
+    country: FR
+  publisher:
+    name: IEEE
+  year: 2026

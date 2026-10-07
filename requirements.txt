@@ -1,0 +1,6 @@
+# Versions used for the results reported in the paper.
+# Newer versions may work but were not tested.
+torch==2.11.0
+torchvision
+opacus==1.6.0
+powersgd @ git+https://github.com/epfml/powersgd.git@f07be924eda568511c0ca00efdfed06b1d7e6332
